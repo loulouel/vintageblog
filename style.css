@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    background-color: rosybrown;
+    
+}
+
+header {
+    font-family: fantasy;
+    font-style:oblique;
+    font-size:xx-large;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+  
+}
+
+p {
+    color: black;
+} 
+
+h2 {
+    color: black;
+}
+
+nav ul {
+    list-style: none;
+    background-color: gainsboro;
+    text-align: center;
+    height: 50px;
+    color: black;
+
+
+}
+
+aside{
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+section{
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+article{
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+ 
